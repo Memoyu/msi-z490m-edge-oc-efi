@@ -87,3 +87,7 @@ MacOS：12.1 Monterey
 [国光的黑苹果安装教程 (sqlsec.com)](https://apple.sqlsec.com/)
 
 [黑果小兵hackintosh教程](https://blog.daliansky.net/macOS-Mojave-10.14.5-18F132-official-version-with-Clover-4928-original-image.html#more)
+
+[TWanGT/hackintosh-msi-z490m-edge-10700k (github.com)](https://github.com/TWanGT/hackintosh-msi-z490m-edge-10700k)
+
+[redcweed/z490: MSI z490m Gaming Edge Hackintosh (github.com)](https://github.com/redcweed/z490)
