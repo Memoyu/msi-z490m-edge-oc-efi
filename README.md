@@ -1,6 +1,6 @@
 
 
-![sc-desktop](https://github.com/Memoyu/msi-z490m-edge-oc-efi/blob/main/images/sc-desktop.png)
+![sc-desktop](https://raw.githubusercontent.com/Memoyu/msi-z490m-edge-oc-efi/main/images/sc-desktop.png)
 
 ## 基本信息
 
